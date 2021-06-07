@@ -1,0 +1,33 @@
+p{
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link{
+  color:green;
+}
+
+a:visited{
+  background-color: #A9EC12;
+}
+
+a:focus{
+  border-bottom: 1px solid;
+  background: #A9EC12;
+}
+
+a:hover{
+  border-bottom: 1px solid;
+  background: #A9EC12;
+}
+
+a:active{
+color: white;
+background-color: green;
+}

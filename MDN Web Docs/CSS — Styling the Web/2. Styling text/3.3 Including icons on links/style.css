@@ -1,0 +1,37 @@
+body {
+
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+p {
+  line-height: 1.4;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:focus, a:hover {
+  border-bottom: 1px solid;
+}
+
+a:active {
+  color: red;
+}
+
+a[href*="http"] {
+  background: url('icons8-external-link-26.png') no-repeat  100%;
+  background-size: 10px 10px;
+  padding-right: 15wpx;
+}

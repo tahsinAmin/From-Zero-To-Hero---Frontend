@@ -1,0 +1,58 @@
+<!-- TODO Write the createCalendar function -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>A simple calendar</title>
+    <style>
+        body{
+            background-color: #82c7fa4f;
+            width: 80%;
+            margin: 0 auto;
+        }
+        ul{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-gap: 2px;
+            padding-left: 0px;
+        }
+        li{
+            list-style-type: none;
+            height: 30px;
+            background-color: white;
+            color: black;
+            border: 1px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Live Output</h2>
+    <label for="month">Select month: </label>
+    <select id="month" name="">
+        <option value="January">January</option>
+        <option value="February">February</option>
+        <option value="March">March</option>
+        <option value="April">April</option>
+        <option value="May">May</option>
+        <option value="June">June</option>
+        <option value="July">July</option>
+        <option value="August">August</option>
+        <option value="September">September</option>
+        <option value="October">October</option>
+        <option value="November">November</option>
+        <option value="December">December</option>
+    </select>
+    <h1></h1>
+
+    <ul>
+    </ul>
+
+    <script src="main.js"></script>
+</body>
+</html>

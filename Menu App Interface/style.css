@@ -1,0 +1,28 @@
+.b{
+    background-color: rgba(162,175,164);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.appBody{
+    width: 24%;
+    height: 414px;
+    background-color: orange;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
+
+.sameH{
+    height: 20%;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.5);
+    /* border-bottom: 1px solid black; */
+}
+
+.menu{ background-color: rgba(235,232,183);}
+.coffee{ background-color: rgba(162,175,164);}
+.sweet{ background-color: rgba(252, 224, 121);}
+.food{  background-color: rgba(252, 224, 121);}
+.drink{  background-color: purple;}

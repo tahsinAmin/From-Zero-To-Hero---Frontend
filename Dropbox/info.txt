@@ -1,0 +1,18 @@
+There are some extreme cases where I cannot make the same section as it is since it
+ needs ither frameworks or library. Hence, going with a very default one and probably
+ will be touching it again next year at at this time.
+
+Some links that I'd like to keep it here for future reference:
+
+1. Scrollytelling with position sticky - full-width = https://codepen.io/enatario/pen/GGqepe
+
+2. Scrollytelling with position sticky = https://codepen.io/enatario/pen/eKzxzY
+
+3. Page footer slide-out using "position:sticky" = https://codepen.io/rpsthecoder/pen/PdYJBW
+
+4. Easier scrollytelling with position sticky = https://pudding.cool/process/scrollytelling-sticky/
+
+5. Side-saddle scrollytelling with position sticky and enterview - https://codepen.io/enatario/pen/ZRpVRM
+
+
+

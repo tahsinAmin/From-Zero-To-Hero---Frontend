@@ -1,0 +1,16 @@
+html {
+  font-family: impact, sans-serif;
+}
+h2 {
+  margin: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size: 75px;
+  display: inline-block;
+  background: url(background.jpg) repeat;
+}
+.text-clip {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
