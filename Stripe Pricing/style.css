@@ -1,12 +1,6 @@
 body {
-  background-color: #02b77a;
+  background-color: #5bc67a;
 }
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 h1 {
   font-family: sans-serif;
   font-weight: lighter;
